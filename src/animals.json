@@ -1,0 +1,11 @@
+[
+    {"name": "dog", "weight": 50},
+    {"name": "cat", "weight": 12},
+    {"name": "hippo", "weight": 4000},
+    {"name": "lemur", "weight": 13},
+    {"name": "baboon", "weight": 50},
+    {"name": "gator", "weight": 1000},
+    {"name": "horse", "weight": 50},
+    {"name": "giraffe", "weight": 50},
+    {"name": "panda", "weight": 50}
+]
